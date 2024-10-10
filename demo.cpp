@@ -10,6 +10,5 @@ int main(){
     cout << "Gaurav's age is: " << x << endl;
     cout << "Gaurav's legal name is: " << y << endl;
     return 0;
-
     
 }

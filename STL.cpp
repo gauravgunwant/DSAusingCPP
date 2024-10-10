@@ -654,7 +654,7 @@ int main() {
     // VectorSTL();
     // ListSTL();
     // DequeSTL();
-    // StackSTL();
+    StackSTL();
     // QueueSTL();
     // PQueueSTL();
     // SetSTL();
@@ -671,7 +671,7 @@ int main() {
     // MaxMinElementSTL();
     // ReverseSTL();
     // PowerSTL();
-    ComparatorMainSTL();
+    // ComparatorMainSTL();
     
     return 0;
 }

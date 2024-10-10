@@ -25,6 +25,7 @@ int RecursiveMethod(vector<int> &arr, int n,int target){
     int x = RBinarySearch(arr, low, high, target);
     return x;
 }
+
 int IterativeMethod(vector<int> &arr,int n,int target){
     int low = 0;
     int high = n-1;
